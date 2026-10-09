@@ -12,6 +12,7 @@ I ❤️ Engineering. It's the most effective way to solve problems.\
 ---
 
 I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
+(A lot coming soon).
 
 ## What I'm working on mostly
 
