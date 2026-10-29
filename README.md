@@ -80,7 +80,7 @@ I support open-source. More things on the way.
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![dependency-cruiser](https://img.shields.io/badge/-dependency--cruiser-5D5DFF?style=flat-square)
-![Husky](https://img.shields.io/badge/-Husky-2C3E50?style=flat-square)
+
 
 **Front**
 
