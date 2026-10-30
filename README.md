@@ -109,7 +109,7 @@ I support open-source. More things on the way.
 ## How I write code
 
 - Multiple simultaneous Claude Code and locally running Qwen sessions. Same is done by my team.
-- Most important part: Machine-Making-Machine. This is the most important project of Pensieve. It has significantly reduced the lack of determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.
+- Most important part: Machine-Making-Machine or say, a custom harness. This is the most important project of Pensieve. It has significantly reduced the lack of determinism and errors from LLMs across the codebase and the entire SDLC. It is one of our biggest wins, alongside Pensieve itself. Soon it will be open source, with all the evaluations and documentation.
 - A rule not enforced by a machine is not a rule.
 - LLMs are the typist. I am the brain (at least for now).
 
