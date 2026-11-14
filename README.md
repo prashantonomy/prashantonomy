@@ -1,4 +1,4 @@
-# Prashant Sharma
+# Dr. Prashant Bharadwaj
 
 I ❤️ Engineering. It's the most effective way to solve problems.\
 🩻 Physician by formal education.\
@@ -11,12 +11,12 @@ I ❤️ Engineering. It's the most effective way to solve problems.\
 
 ---
 
-I run [Pensieve Labs](https://www.pensievelabs.org), and a few other things.
+I run [Pensieve Labs](https://pensievelabs.org), and a few other things.
 (A lot coming soon).
 
 ## What I'm working on mostly
 
-🏥 **[Pensieve](https://www.pensievelabs.org)**: Operating System for Hospitals.
+🏥 **[Pensieve](https://pensievelabs.org)**: Operating System for Hospitals.
 
 🚀 **Vel Dynamics**: Energy and aerospace. Details when there is something to demo, not something to claim.
 
@@ -75,9 +75,6 @@ I support open-source. More things on the way.
 
 ![TLA+](https://img.shields.io/badge/-TLA%2B-3F51B5?style=flat-square)
 ![Alloy](https://img.shields.io/badge/-Alloy-37474F?style=flat-square)
-![pnpm](https://img.shields.io/badge/-pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
-![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![dependency-cruiser](https://img.shields.io/badge/-dependency--cruiser-5D5DFF?style=flat-square)
 
