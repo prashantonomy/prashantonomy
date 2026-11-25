@@ -16,7 +16,7 @@ I run [Pensieve Labs](https://pensievelabs.org), and a few other things.
 
 ## What I'm working on mostly
 
-🏥 **[Pensieve](https://pensievelabs.org)**: Operating System for Hospitals.
+🏥 **[Pensieve Labs](https://pensievelabs.org)**: Operating System for Hospitals.
 
 🚀 **Vel Dynamics**: Energy and aerospace. Details when there is something to demo, not something to claim.
 
