@@ -65,13 +65,11 @@ I support open-source. More things on the way.
 ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 ![Cloud Storage](https://img.shields.io/badge/-Cloud%20Storage-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Pub/Sub](https://img.shields.io/badge/-Pub%2FSub-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Secret Manager](https://img.shields.io/badge/-Secret%20Manager-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![EC2](https://img.shields.io/badge/-EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/-S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 ![Lambda](https://img.shields.io/badge/-Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
 ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
-![SQS](https://img.shields.io/badge/-SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
 ![TLA+](https://img.shields.io/badge/-TLA%2B-3F51B5?style=flat-square)
 ![Alloy](https://img.shields.io/badge/-Alloy-37474F?style=flat-square)
