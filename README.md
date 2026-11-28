@@ -72,7 +72,6 @@ I support open-source. More things on the way.
 ![CloudFront](https://img.shields.io/badge/-CloudFront-8C4FFF?style=flat-square&logo=amazoncloudfront&logoColor=white)
 ![TLA+](https://img.shields.io/badge/-TLA%2B-3F51B5?style=flat-square)
 ![Alloy](https://img.shields.io/badge/-Alloy-37474F?style=flat-square)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
 ![dependency-cruiser](https://img.shields.io/badge/-dependency--cruiser-5D5DFF?style=flat-square)
 
 
